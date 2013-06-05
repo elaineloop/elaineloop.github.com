@@ -1,7 +1,7 @@
 ---
 layout: page
 title: never give up
-tagline: Supporting tagline
+tagline: I do 
 ---
 {% include JB/setup %}
 
