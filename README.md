@@ -1,2 +1,2 @@
 # brief 
-just recorded their learned knowledge 
+I just recorded  knowledge 
