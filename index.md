@@ -10,6 +10,6 @@ tagline: I do
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
-
-
-
+<div style="text-align:right;">
+<img style="width:200px;" src="../img/me.png"/>
+</div>
